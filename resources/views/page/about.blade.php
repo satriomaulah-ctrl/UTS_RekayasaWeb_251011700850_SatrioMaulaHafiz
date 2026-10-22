@@ -9,7 +9,6 @@
     <ul>
         <li>Katalog produk dengan pencarian, filter kategori, dan pagination</li>
         <li>Halaman detail produk dan produk terkait</li>
-        <li>Halaman admin untuk tambah, ubah, dan hapus produk</li>
     </ul>
 </div>
 @endsection
